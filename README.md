@@ -29,3 +29,7 @@ These are the assets of a single website, not a general-purpose image hosting se
 - `images/logo-lichtholz--media-033.png` — logo-lichtholz
 - `images/imagem-apoio--f1acb3caa52843df88c95177347f98eb.thumbnail.0000000000_800x.jpg` — imagem-apoio
 - `images/imagem-apoio--Trustpilot_Logo_%282022%29.svg` — imagem-apoio
+
+## Verified CDN URLs
+
+`manifest-cdn.json` identifies every asset, original URL, immutable CDN URL and SHA-256 verification. The image content is pinned to commit `929788e2633eb8c5d1ad6398cdab44c1ee72542b`.
